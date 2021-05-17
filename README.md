@@ -1,5 +1,7 @@
 [TOC]
 
+<link href="markdown.css" rel="stylesheet"></link>
+
 # Paper List of Influence Maximization
 
 ## Classic
@@ -50,7 +52,7 @@
 ## Deep RL
 
 * **Learning Combinatorial Optimization Algorithms over Graphs**
-  * Hanjun Dai†, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina and Le Song
+  * Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina and Le Song
   * NeurIPS 2017
 
 * **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search**
@@ -68,19 +70,19 @@
 
 ## Location
 
-* Efficient location-aware influence maximization
+* **Efficient location-aware influence maximization**
   * Guoliang Li, Shuo Chen, Jianhua Feng, Kian-lee Tan and Wen-Syan Li
   * SIGMOD 2014
-* Using crowdsourced data in location-based social networks to explore influence maximization
+* **Using crowdsourced data in location-based social networks to explore influence maximization**
   * Ji Li, Zhipeng Cai, Mingyuan Yan and Yingshu Li
   * INFOCOM 2016
-* Location-aware targeted influence maximization in social networks
+* **Location-aware targeted influence maximization in social networks**
   * Sen Su, Xiao Li, Xiang Cheng and Chenna Sun
   * JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY 2017
-* Topology-driven Diversity for Targeted Influence Maximization with Application to User Engagement in Social Networks
+* **Topology-driven Diversity for Targeted Influence Maximization with Application to User Engagement in Social Networks**
   * Antonio Calio, Roberto Interdonato, Chiara Pulice, and Andrea Tagarelli
   * TKDD 2018
-* Densely Connected User Community and Location Cluster Search in Location-Based Social Networks
+* **Densely Connected User Community and Location Cluster Search in Location-Based Social Networks**
   * Junghoon Kim, Tao Guo, Kaiyu Feng, Gao Cong, Arijit Khan and Farhana M. Choudhury
   * SIGMOD 2020
 
