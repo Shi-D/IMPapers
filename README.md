@@ -1,7 +1,5 @@
 [TOC]
 
-<link href="markdown.css" rel="stylesheet"></link>
-
 # Paper List of Influence Maximization
 
 ## Classic
@@ -59,7 +57,6 @@
 * **Influence Maximization: Seeding Based on Community Structure**
   * JIANXIONG GUO and WEILI WU
   * TKDD 2020 [[paper]](https://dl.acm.org/doi/abs/10.1145/3399661?casa_token=chq634nzdAUAAAAA%3AB1JrcBbmc_WC4C-mqzi_jr6tiYidC233eKq-EEISyMVHKl0PVQOGwgYANrJo6qLxPOmjS7R2aUrPvqQ)
-  
 
 ## Deep RL
 
