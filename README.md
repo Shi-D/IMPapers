@@ -22,7 +22,6 @@
   
 * **Influence Maximization in Near-Linear Time: A Martingale Approach**
   * Youze Tang, Yanchen Shi and Xiaokui Xiao
-  
   * SIGMOD 2015
   
     
@@ -59,7 +58,6 @@
   
 * **Influence Maximization: Seeding Based on Community Structure**
   * JIANXIONG GUO and WEILI WU
-  
   * TKDD 2020 [[paper]](https://dl.acm.org/doi/abs/10.1145/3399661?casa_token=chq634nzdAUAAAAA%3AB1JrcBbmc_WC4C-mqzi_jr6tiYidC233eKq-EEISyMVHKl0PVQOGwgYANrJo6qLxPOmjS7R2aUrPvqQ)
   
     
@@ -80,9 +78,7 @@
 
 * **GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs**
   * Sahil Manchanda, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu and Ambuj Singh
-  
   * Appendix for GCOMB: **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**
-  
   * NeurIPS 2020
   
     
@@ -107,7 +103,6 @@
   
 * **Densely Connected User Community and Location Cluster Search in Location-Based Social Networks**
   * Junghoon Kim, Tao Guo, Kaiyu Feng, Gao Cong, Arijit Khan and Farhana M. Choudhury
-  
   * SIGMOD 2020
   
     
@@ -210,6 +205,7 @@
 ### VLDBJ '21
 
 * **Efficient Approximation Algorithms for Adaptive Influence Maximization**
+
   * Keke Huang, **Jing Tang**, Kai Han, Xiaokui Xiao, Wei Chen, Aixin Sun, Xueyan Tang, and Andrew Lim
   * VLDBJ '20
   * [paper](https://drive.google.com/file/d/1wLHE1_9k1cCP1ZWS3vPHWImrmDeJMJLb/view?usp=sharing)
@@ -217,6 +213,7 @@
 ### ICML '21
 
 * **Budgeted Online Influence Maximization**
+
   * Pierre Perrault, Jennifer Healey, Zheng Wen, Michal Valko
   * 在线影响力最大化
   * [paper](http://proceedings.mlr.press/v119/perrault20a.html)
@@ -224,12 +221,14 @@
 ### INFOCOM '20
 
 * **Privacy Policy in Online Social Network with Targeted Advertising Business**
+
   * Guocheng Liao, Xu Chen, Jianwei Huang
   * [paper](https://ieeexplore.ieee.org/document/9155500)
 
 ### TKDE '21
 
 * **Signed-PageRank: An Efficient Influence Maximization Framework for Signed Social Networks**
+
   * Xiaoyan Yin, Xiao Hu, Yanjiao Chen, Xu Yuan, Baochun Li
   * [paper](https://doi.org/10.1109/TKDE.2019.2947421)
   
@@ -244,22 +243,26 @@
 ### SIGMOD '21
 
 * **Efficient and Effective Algorithms for Revenue Maximization in Social Advertising**
+
   * Kai Han, Benwei Wu, **Jing Tang**, Shuang Cui, Cigdem Aslay, and Laks V.S. Lakshmanan
   * SIGMOD '21
 
 ### SIGMOD '20
 
 * **The Solution Distribution of Influence Maximization: A High-level Experimental Study on Three Algorithmic Approaches**
+
   * Naoto Ohsaka
   * [paper](https://doi.org/10.1145/3318464.3380564)
 
 * **Influence Maximization Revisited: Efficient Reverse Reachable Set Generation with Bound Tightened**
+
   * Qintian Guo, Sibo Wang, Zhewei Wei, Ming Chen
   * [paper](https://dl.acm.org/doi/10.1145/3318464.3389740)
 
 ### SIGKDD '20
 
 * **Geodemographic Influence Maximization**
+
   * 地理人口影响最大化（GIM）
   * Kaichen Zhang, Jingbo Zhou, Donglai Tao, Panagiotis Karras, Qing Li, Hui Xiong
   * [paper](https://dl.acm.org/doi/10.1145/3394486.3403327)
@@ -267,28 +270,33 @@
 ### ICDE '20
 
 * **Efficient Approximation Algorithms for Adaptive Target Profit Maximization**
+
   * Keke Huang, Jing Tang, Xiaokui Xiao, Aixin Sun, Andrew Lim
   * [paper](https://ieeexplore.ieee.org/document/9101853/)
 
 ### Others
 
 * **Multi-Community Influence Maximization in Device-to-Device social networks**
+
   * Xiaofei Wang, Xu Tong, Hao Fan, Chenyang Wang, Jianxin Li, Xin Wang
   * Knowledge-Based Systems
   * [paper](https://doi.org/10.1016/j.knosys.2021.106944)
   
 * **Time-Constrained Adaptive Influence Maximization**
+
   * Guangmo Tong, Ruiqi Wang, Zheng Dong, Xiang Li
   * 自适应
   * IEEE Transactions on Computational Social Systems 2021
   * [paper](https://doi.org/10.1109/TCSS.2020.3032616)
 
 * **Pricing Influential Nodes in Online Social Networks**
+
   * Yuqing Zhu, **Jing Tang**, and Xueyan Tang
   * PVLDB '20
   * [paper](http://www.vldb.org/pvldb/vol13/p1614-zhu.pdf)
   
 * **Scalable Lattice Influence Maximization**
+
   * Wei Chen, Ruihan Wu, Zheng Yu
   * IEEE Transactions on Computational Social Systems 2020
   * [paper](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/tcss20_latticeIM.pdf)
