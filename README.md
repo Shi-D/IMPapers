@@ -67,21 +67,28 @@
 * **Learning Combinatorial Optimization Algorithms over Graphs**
   * Hanjun Dai, Elias B. Khalil, Yuyu Zhang, Bistra Dilkina and Le Song
   * NeurIPS 2017
-
 * **Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search**
   * Zhuwen Li, Qifeng Chen and Vladlen Koltun
   * NeurIPS 2018
-
 * **Approximation Ratios of Graph Neural Networks for Combinatorial Problems**
   * Ryoma Sato, Makoto Yamada and Hisashi Kashima
   * NeurIPS 2019
-
 * **GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs**
   * Sahil Manchanda, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu and Ambuj Singh
   * Appendix for GCOMB: **Learning Heuristics over Large Graphs via Deep Reinforcement Learning**
   * NeurIPS 2020
-  
-    
+* **DISCO: Influence Maximization Meets Network Embedding and Deep Learning**
+
+
+
+## GNN
+
+* **Semi-Supervised Classification with Graph Convolutional Networks**
+* **Multi-task Learning for Influence Estimation and Maximization**
+* **Influence Maximization Using Influence and Susceptibility Embeddings**
+* **InfGCN: Identifying influential nodes in complex networks with graph convolutional networks**
+* **DeepIS: Susceptibility Estimation on Social Networks**
+* **Deep Learning Approach on Information Diffusion in Heterogeneous Networks**
 
 ## Location
 
@@ -170,6 +177,7 @@
 * **Correlation Robust Influence Maximization**
   * Louis Chen, Divya Padmanabhan, Chee Chin Lim, Karthik Natarajan
   * 提出了一种影响力传播模型
+  * [paper](https://arxiv.org/pdf/2010.14620.pdf)
   
 * **Online Influence Maximization under Linear Threshold Model.**
   * Shuai Li, Fang Kong, Kejie Tang, Qizhi Li, Wei Che
