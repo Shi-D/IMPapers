@@ -282,6 +282,34 @@
   * Keke Huang, Jing Tang, Xiaokui Xiao, Aixin Sun, Andrew Lim
   * [paper](https://ieeexplore.ieee.org/document/9101853/)
 
+### ICDE '22
+
+- [On the Fairness of Time-Critical Influence Maximization in Social Networks (Extended Abstract)](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300b541/088300b541.pdf)
+  - *Junaid Ali (Max Planck Institute for Software Systems), Mahmoudreza Babaei (Max Planck Institute for Human Development), Abhijnan Chakraborty (Indian Institute of Technology Delhi), Baharan Mirzasoleiman (UCLA), Krishna P. Gummadi (Max Planck Institute for Software Systems), Adish Singla (Max Planck Institute for Software Systems)*
+- [Finding Critical Users in Social Communities via Graph Convolutions (Extended Abstract)](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300b539/088300b539.pdf)
+  - *Kangfei Zhao (The Chinese University of Hong Kong; Tencent AI Lab), Zhiwei Zhang (Beijing Institute of Technology), Yu Rong (Tencent AI Lab), Jeffrey Xu Yu (The Chinese University of Hong Kong), Junzhou Huang (University of Texas at Arlington)*
+
+- [Distributed Influence Maximization for Large-Scale Online Social Networks](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300a081/088300a081.pdf)
+  - *Jing Tang (The Hong Kong University of Science and Technology), Yuqing Zhu (Nanyang Technological University), Xueyan Tang (Nanyang Technological University), Kai Han (University of Science and Technology of China)*
+
+- [Event Popularity Prediction using Influential Hashtags from Social Media (Extended Abstract)](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300b553/088300b553.pdf)
+
+  - *Xi Chen (RMIT University, Australia), Xiangmin Zhou (RMIT University, Australia), Jeffrey Chan (RMIT University, Australia), Lei Chen (Hong Kong University of Science and Technology), Timos Sellis (Swinburne University of Technology, Australia), Yanchun Zhang (Victoria University, Australia; Guangzhou University, China)*
+
+- [Finding Top-r Influential Communities Under Aggregation Functions](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300b942/088300b942.pdf)
+
+  - *You Peng (The Chinese University of Hong Kong), Song Bian (The Chinese University of Hong Kong), Rui Li (The Chinese University of Hong Kong), Sibo Wang (The Chinese University of Hong Kong), Jeffrey Xu Yu (The Chinese University of Hong Kong)*
+
+- [Influence-Aware Task Assignment in Spatial Crowdsourcing](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300c142/088300c142.pdf)
+
+  - *Xuanhao Chen (University of Electronic Science and Technology of China, China), Yan Zhao (Aalborg University, Denmark), Kai Zheng (University of Electronic Science and Technology of China, China), Bin Yang (Aalborg University, Denmark), Christian S. Jensen (Aalborg University, Denmark)*
+
+- [Epidemic Spread Optimization for Disease Containment with NPIs and Vaccination](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300c846/088300c846.pdf)
+
+  - *Ya-Wen Teng (Institute of Information Science, Academia Sinica, Taiwan), Yishuo Shi (Wenzhou University, China), De-Nian Yang (Institute of Information Science, Academia Sinica, Taiwan; Research Center for Information Technology Innovation, Academia Sinica, Taiwan), Wang-Chien Lee (The Pennsylvania State University, USA), Philip S. Yu (University of Illinois Chicago, USA), Ying-Liang Lu (Shetou Township Health Center of Changhua County, Taiwan), Ming-Syan Chen (National Taiwan University, Taiwan)*
+
+  
+
 ### Others
 
 * **Multi-Community Influence Maximization in Device-to-Device social networks**
