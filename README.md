@@ -284,6 +284,8 @@
 
 ### ICDE '22
 
+> https://conferences.computer.org/icdepub/
+
 - [On the Fairness of Time-Critical Influence Maximization in Social Networks (Extended Abstract)](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300b541/088300b541.pdf)
   - *Junaid Ali (Max Planck Institute for Software Systems), Mahmoudreza Babaei (Max Planck Institute for Human Development), Abhijnan Chakraborty (Indian Institute of Technology Delhi), Baharan Mirzasoleiman (UCLA), Krishna P. Gummadi (Max Planck Institute for Software Systems), Adish Singla (Max Planck Institute for Software Systems)*
 - [Finding Critical Users in Social Communities via Graph Convolutions (Extended Abstract)](https://conferences.computer.org/icdepub/pdfs/ICDE2022-4UqKrxY1UCRwCjZGazG1fQ/088300b539/088300b539.pdf)
